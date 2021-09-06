@@ -1,4 +1,4 @@
-# umstead_thruhike
+# Umstead Thruhike
 
 Figure out the best way to hike all trails in the [Umstead NC State Park](https://www.ncparks.gov/william-b-umstead-state-park/home).
 
